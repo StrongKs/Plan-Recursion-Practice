@@ -1,11 +1,12 @@
 # Plane-Recursion-Practice
-Practice recursive problem on my flight to c
-I had the incredible opportunity to attend Google's inaugural Product Inclusion & Equity Summit in sunny Sunnyvale, California, and I must say, it was an eye-opening experience! 🌞
+On my flight to California for Google's first Product Equity & Inclusion Summit in Sunnyvale, I decided to make the most of my time without Wi-Fi by honing my coding skills. 🚀
 
-Not only was it my first time in the Golden State, but the summit itself was nothing short of extraordinary. The wealth of knowledge and insights shared were absolutely mind-boggling, and I am deeply grateful for the chance to participate.
+One area I've always wanted to strengthen is recursion. I challenged myself to tackle recursive problems during the journey, and it turned out to be quite an adventure! 😅
 
-The sheer volume of information I gathered has me seriously considering putting together a blog to share these powerful insights with all of you. The discussions on product inclusion and equity were not only thought-provoking but also incredibly inspiring.
+I successfully replicated the Fibonacci sequence from scratch, but then, I hit a roadblock when attempting to construct a binary search tree from an ordered array. 🌲 That's when something incredible happened! 🙌
 
-I'd like to extend a heartfelt shout-out to Kourney, Dominique, and Annie for accepting my essay as one of the winners in the contest that granted me this opportunity. Your support has opened doors to a world of knowledge, and I am forever grateful. 🙏
+I found myself fortunate to have a Software Engineer from Instacart seated nearby who noticed my struggles and decided to lend a helping hand. 💡 It was an amazing experience to witness an industry expert effortlessly tackle the same problem I had been grappling with for hours. 🤯
 
-Stay tuned for more updates, as I look forward to sharing some of the invaluable lessons and ideas that I've gathered during this remarkable summit. Let's work together to make our products and workplaces more inclusive and equitable for everyone!
+Not only did Gary guide me through the question, but he also imparted some valuable wisdom about recursion. 🧠 He mentioned that, in the software industry, recursive problems are often avoided in favor of iterative solutions, and they tend to be more prevalent in interview scenarios. Who knew, right? 🤷‍♂️
+
+I'm incredibly grateful to Gary for sharing his knowledge and assisting me on my brief but enlightening journey into the world of recursive problem-solving. 🙏✨
